@@ -1,0 +1,20 @@
+.registerForm {
+   background: linear-gradient(
+      90deg,
+      rgba(50, 50, 50, 0.444),
+      rgba(30, 30, 30, 0.427)
+   ),
+      url("../../assets/registerImage.jpg") no-repeat;
+   background-size: cover;
+}
+
+.myColor {
+   box-shadow: 2px 2px 6px rgba(6, 69, 170, 0.63), -2px -2px 6px rgba(124, 168, 239, 0.488);
+}
+
+
+/* linear-gradient(
+         90deg,
+         rgba(226, 24, 24, 0.3),
+         rgba(226, 24, 24, 0.14)
+      ), */
